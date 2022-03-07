@@ -8,7 +8,7 @@
     "now-build": "yarn build"
   },
   "dependencies": {
-    "prop-types": "15.7.2",
+    "prop-types": "15.8.1",
     "react": "16.12.0",
     "react-dom": "16.12.0"
   },
